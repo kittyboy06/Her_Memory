@@ -1,0 +1,866 @@
+{
+  "app": "AashifaMemories",
+  "version": "1.0",
+  "type": "diary_bulk_import",
+  "entries": [
+    {
+      "date": "2025-01-17",
+      "title": "Snapchat Friends 👻",
+      "body": "We became friends on snapchat. First I didn't save her snap but she started to save — makes it easy for me to also save. I started to save all of her snaps in chat.",
+      "mood": "excited",
+      "tags": [
+        "snapchat",
+        "beginning"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-01-31",
+      "title": "Beginning 🤓 — First Conversation",
+      "body": "I saw her on a random day at our College. I got lil bit curious about her and started to collect information about her and I finally got her class and name from my classmate. I always saw her from a long distance without her noticing me.\n\nShe posted a story on her instagram wishing happy new year (STR Fan). The 1st step is very difficult. I simply asked her to tag me in her story. Thus how we started our Conversation.",
+      "mood": "nervous",
+      "tags": [
+        "beginning",
+        "instagram",
+        "first chat",
+        "milestone"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": true,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-02-01",
+      "title": "Close Friends ❤️ + Your Name Moment",
+      "body": "She added me to her close friends. I didn't know she watches romantic high school anime. I simply added my favorite movie \"Your Name\". But Unexpected She Replied \"Favvv🫶😭🌹\"",
+      "mood": "excited",
+      "tags": [
+        "close friends",
+        "anime",
+        "milestone"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": true,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-02-02",
+      "title": "Stoke's Theorem 📐",
+      "body": "We had a maths exam. She sent a snap titled \"Stoke's Theorem Solli tara mudiyuma\". I replied \"Na solli taratuma\" then i texted full explanation about the sum but she said \"Eanku onnume purila voice message podunga\" then i sent vm to her.",
+      "mood": "happy",
+      "tags": [
+        "exam",
+        "voice message",
+        "math"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-02-05",
+      "title": "Anime Talk 🎌",
+      "body": "After I got to know that she likes anime, I asked her \"Enna Anime paapinga\". She watched \"Weathering with you, Your name, Naruto\".",
+      "mood": "happy",
+      "tags": [
+        "anime"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-02-07",
+      "title": "Pancreas Recommendation 🫀",
+      "body": "I Recommended her to watch \"I want to eat your pancreas\". She said \"Pathuta pochii\"",
+      "mood": "happy",
+      "tags": [
+        "anime",
+        "recommendation"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-02-08",
+      "title": "First Reel Share 🎬",
+      "body": "I shared my 1st reel with her, just a funny reel.",
+      "mood": "happy",
+      "tags": [
+        "reel",
+        "first"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-02-09",
+      "title": "September Babies! 🎂",
+      "body": "She put a instagram story about the month of September. I asked if you were born in September. Unexpectedly we are both September babies.",
+      "mood": "excited",
+      "tags": [
+        "birthday",
+        "coincidence",
+        "september"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-02-13",
+      "title": "Physics Xerox — First Physical Talk 💬",
+      "body": "I forgot to bring my physics xerox. I asked her if she could lend me hers but she also didn't bring that. She went to the next department and she asked xerox for ME and lent it to me — as I said she cares about everybody. That day is the 1st physical talk with her.",
+      "mood": "happy",
+      "tags": [
+        "first physical talk",
+        "milestone",
+        "caring"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": true,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-02-16",
+      "title": "Akuma No Ko 🎵",
+      "body": "I shared the song \"Akuma No Ko\". She says \"Indha moodevi ku tamil ley olunga theriyadhu idula japanese song vera\".",
+      "mood": "happy",
+      "tags": [
+        "music",
+        "japanese"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-02-17",
+      "title": "Video Call Chaos 😂 + Your Current Love",
+      "body": "I said to my friends that I have a crush on her while I was showing my chats with her. They pressed the video call button. Na edo Water Spray aaiduchi nu solli samalichiten 😂\n\nShe posted a story about a random speed picture. We need to take a screenshot and answer to her. I took more than 5 screenshots to get \"Your Current Love\". Just to let her know I am currently not in a relationship.",
+      "mood": "nervous",
+      "tags": [
+        "friends",
+        "video call",
+        "story"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-02-20",
+      "title": "Her Poem 📝",
+      "body": "I sent a message appreciating her poem. But she just discouraged herself which i didn't like.",
+      "mood": "sad",
+      "tags": [
+        "poem",
+        "appreciation"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-02-24",
+      "title": "Game Dev Appreciation 🎮",
+      "body": "Just sent a snap about my game development. She appreciated me and my game dev.",
+      "mood": "happy",
+      "tags": [
+        "game dev",
+        "appreciation"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-02-25",
+      "title": "IV Trip News + Cupid Song 💘",
+      "body": "My college just announced an IV trip. I got excited that both our classes would combine but we didn't. They gave different dates for the trip.\n\nI kept a song in my notes \"Cupid -Twin Ver.\" It's a love song searching for his/her soulmate. She replied \"Enna peeling ga\". Just unexpected things from her 🫶",
+      "mood": "hopeful",
+      "tags": [
+        "iv trip",
+        "song",
+        "cupid"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-02-27",
+      "title": "Song Exchange 🎶",
+      "body": "I posted a song on snapchat. She asked me for a song recommendation. I sent \"Oxygen from Kavan, Oru Kan Jaadai from Anjan, Oruthi Maale Meendum from Jeeva\".\n\nThen I asked for her recommendation. She sent \"Visiri from Ennai Noki Paayum Thota, Dhinam Oru Kavithai and Mudhal Nee Mudivum Nee by Sid Sriram, Oru Devathai\". Then the biggest part \"Macha Kanni, Bombay Ponnu, Ayyarettu\"",
+      "mood": "happy",
+      "tags": [
+        "music",
+        "songs",
+        "recommendation"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-03-02",
+      "title": "Ramadan Reply 🌙",
+      "body": "It's Ramadan time. She replied to my story about the food temptation by instagram.",
+      "mood": "happy",
+      "tags": [
+        "ramadan",
+        "instagram"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-03-08",
+      "title": "Women's Day Treat 🌸",
+      "body": "I wished for women's day and asked for a treat.",
+      "mood": "happy",
+      "tags": [
+        "womens day"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-03-09",
+      "title": "Excuse Mee... 👀",
+      "body": "She texted \"Excuse mee\". I replied \"Yess\". But next she replied \"Onnu illa summa msg panna\". I just got curious and asked her what do you want to say. But she sent an instagram id and asked who that is. But it's like she wants to ask something different but didn't say that at that time.",
+      "mood": "curious",
+      "tags": [
+        "instagram",
+        "mystery",
+        "hint"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-03-15",
+      "title": "The Silent Months 😶 (Mar–Jun)",
+      "body": "More twists and turning points which I didn't expect. I didn't talk to her for four months.",
+      "mood": "sad",
+      "tags": [
+        "gap",
+        "silence"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-07-01",
+      "title": "Doctor's Day — First Phone Call 📞",
+      "body": "Doctor's Day celebration by rotary club. I didn't know she would come to the celebration that was organised by our club. So we need to do the preparation. It's the 1st time I called her through my phone. Absolutely its work related but its 1st time.\n\nOverall I just Spammed the Reels in July. From start I was only talking to her by chats but in July I started to talk to her in person. But whenever I saw her I can't speak — I didn't know why but something that doesn't allow me to talk (It's my introverted ass).",
+      "mood": "nervous",
+      "tags": [
+        "first call",
+        "rotary",
+        "milestone",
+        "july"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": true,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-08-15",
+      "title": "Independence Day MC 🎤 — Nickname: Potato 🥔",
+      "body": "She did Independence Day MC which is awesome. I changed her Nickname to Potato.",
+      "mood": "happy",
+      "tags": [
+        "independence day",
+        "mc",
+        "nickname",
+        "potato"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-08-20",
+      "title": "Book Hint 📚",
+      "body": "Ava Epodum pola kavidhai eludhi pota. Na apa sonna unaku oru book potu taren nu aana avaliku apa therila.",
+      "mood": "hopeful",
+      "tags": [
+        "poem",
+        "book",
+        "hint"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-08-28",
+      "title": "Janani Said Something... 🤔",
+      "body": "Her friend Janani edo Pesanum nu sonna naanum ketan ennanu aana last ta onnu illanu sollitanga.",
+      "mood": "curious",
+      "tags": [
+        "janani",
+        "friends"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-09-01",
+      "title": "September — Month of Surprises 🎉",
+      "body": "I started to talk to her daily in person. Always waiting after college to see her and talk to her. Spamming Reels Became a Job. Daily Mokka poda start panna. The month of Surprises.",
+      "mood": "excited",
+      "tags": [
+        "september",
+        "daily talk",
+        "in person"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-09-03",
+      "title": "Oops Struct Moment 😅",
+      "body": "Naanum Pragadesh struct pathi pesumbodhu ketuta ennanu kekumbodhu pachaiya Oops solli kuduten nu poi sonna adu avaluke theriyum aana ava aduku mela kekala.",
+      "mood": "nervous",
+      "tags": [
+        "pragadesh",
+        "oops"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-09-06",
+      "title": "SRM Trip Invite 🏫",
+      "body": "SRM Polam Nu ketan ava avanga cls la yarum varala so na eppadi varadhu varala nu sollita. Vera hackathon maari irunduchina varan nu sonna.",
+      "mood": "hopeful",
+      "tags": [
+        "srm",
+        "trip",
+        "invite"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-09-09",
+      "title": "Sairam Competition 🏆",
+      "body": "Sairam la competition ku invite panna ava Zayan vandha dhaan varuven nu sonna. Zayan vera unaku Aashifa dhaan pudikum eduku enna kupudura vara maatan nu sollitu irundha apa kuda andha loosu ku therila.\n\nZayan varuva nu enaku theriyu but last ta andha day la blood camp vachitanga so avala la vara mudila. Na avalu kaaga dhaan varan nu sonna. Ava varalanu last ta naanum pogala.",
+      "mood": "sad",
+      "tags": [
+        "competition",
+        "zayan",
+        "blood camp"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-09-15",
+      "title": "Korangu 🐒",
+      "body": "Rasha enna korangu nu kupudura nu sonna.",
+      "mood": "happy",
+      "tags": [
+        "nickname",
+        "funny"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-09-18",
+      "title": "Akka Request 👺",
+      "body": "Pragadesh loosu maari avalta olaritu irundhan avana cut panni vara sonna ava avan edo enta sollavandhan nee solla vidala ennadhu nu keta adha epadi apa solluradhu adhan onnu illa avan summa olaritu irundhan nu solli mudicchen.\n\nThen ava enna akka nu kupudu nu sonna mudiyadhu nu solliten 👺",
+      "mood": "angry",
+      "tags": [
+        "pragadesh",
+        "akka",
+        "nickname denied"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-09-22",
+      "title": "Day Before Her Birthday 🎂",
+      "body": "Ava clg vara maatan nu solitu irundha Na varanum nu sanda potu irundhan. Ava B'Day ku Zayan ta photos ketan ava en photos venum na enta kekalam la eduku Zayan ta keka nu kovam patta.",
+      "mood": "hopeful",
+      "tags": [
+        "birthday eve",
+        "zayan",
+        "jealous"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-09-23",
+      "title": "Her Birthday 🎂🌹",
+      "body": "Ava Birthday. Morning seekaram vandhu avalukaaga wait panni last ta vandhadum avaluku vachi irundha gift kudutu love sollalam nu paathan. Aana mudila literally avala paatha pechu varala. Naanum avalta gift kuduthutu vandhuten eduvume sollala.\n\nThen I created a webpage for her: aashi-bday.vercel.app\nCrt ta 12 ku wish panna.\nAprm ma v2ku ponona ava gift lam na except pannala romba thanks nu potu irundha na apave hint kuduten andha loosu ku purila.\n\nNaveen ku theriyum na love pannuren nu avan sollitu irundhan indha loosu avan pesunadhukulam sry avan apadi dhaan nu sollitu irundha.",
+      "mood": "hopeful",
+      "tags": [
+        "birthday",
+        "gift",
+        "website",
+        "milestone",
+        "aashi-bday.vercel.app"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": true,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-09-24",
+      "title": "She Said No 💀",
+      "body": "Sudden msg unta pesanum nu na clg mudinji pona ava apa sollala na txt panna aduku edavadhu sollanum na enta sollalam na yen enta sollala nu keta enaku therinjiduchi apave.\n\nAprm konjam ragebite panni porumaiya sonna pudichi irukunu. I thought she will accept but the things is she said NO and namba friends sa irukalam nu sonna. She told that many reasons v2la vida maatanga this and that. But ik she isn't ready for relationship she had a whole trust issue and insecurity.\n\nPaithiyakaaar!! Mooditu Poi velaiya paaru nu sonna then I become argument. Aprm na wait pannuven nu sollitu vandhuten.",
+      "mood": "sad",
+      "tags": [
+        "confession",
+        "rejection",
+        "friends",
+        "milestone",
+        "heartbreak"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": true,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-09-28",
+      "title": "She Wished Me First 😭🎂",
+      "body": "Ivlo pesitu ava pesave maata nu nenachan aana en B'Day ku 1st wish panna 😭. Ava friends ellarume pannanga adu vera surprise.\n\nNext aduku aprm avalta moonju kudutu kuda pesala 🙂",
+      "mood": "happy",
+      "tags": [
+        "birthday",
+        "wish",
+        "surprise",
+        "milestone"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": true,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-10-01",
+      "title": "October — Silence & Stares 🫠",
+      "body": "Avalta solunga pesuradhu illa txt pannuradhu illa but avale dhaan paathutu irupan.",
+      "mood": "sad",
+      "tags": [
+        "october",
+        "silence",
+        "distance"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-10-03",
+      "title": "Bangalore?? 😳",
+      "body": "Avale keta yen Bangalore pora nu semma shock pesa maatanu nenachan aana pesuna.",
+      "mood": "sad",
+      "tags": [
+        "bangalore",
+        "shock"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-10-13",
+      "title": "Pragadesh Gossip → Things Smooth 🤣",
+      "body": "Samendhame illama indha Pragadesh poi avalta enna pathi pesi irukan aduku ava \"Moonja thirupitu poravangalta pesa mudiyadhu\" nu solli iruka apa dhaan theridhu ava enta pesa vandhu iruka.\n\nNaa dhaan loosu maari pesama irukan aprm msg panna na pesuna dhaan pesuviya umaku vennum na vandhu pesalam la nu. Ava Pragadesh mela semma gaandai ta epadi avan idha sonnan nu. Aprm na ragebite start panniten. Then things become smooth.\n\nAprm Alin Pesuna kadha sonna. Evlo dhaan topper ra irundhalum theriyadhu nu nalla urutuva.",
+      "mood": "happy",
+      "tags": [
+        "pragadesh",
+        "ragebite",
+        "smooth",
+        "alin"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-10-14",
+      "title": "Hating Myself Snap 💔",
+      "body": "Na avalta pesa pona but pesamudila as always aprm avaluku mathum snap poten \"hating myself\" nu ik ava yen nu kepa nu. AVA KETA na sonna therinjavanga vandhalum na pesama poren enaku adu pudikalanu avaluku therinji irukan adu ava dhaan nu.",
+      "mood": "sad",
+      "tags": [
+        "snap",
+        "distance",
+        "self"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-10-19",
+      "title": "Humans and Moons 🌙",
+      "body": "Ava snap potu irundha \"camera isn't fault\" nu na ipa moon na photo edukurana adhaye solluviya nu ketan aduku \"humans and moons onna nu\" keta.\n\nStarted to Send light weighted reels.",
+      "mood": "happy",
+      "tags": [
+        "moon",
+        "snap",
+        "cute reply"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-10-27",
+      "title": "NGL + Kuku Fun 😂",
+      "body": "NGL potu aduku aduku reply panama irundha na adula kuku va vachi fun pannitu irundhan.",
+      "mood": "happy",
+      "tags": [
+        "ngl",
+        "fun",
+        "kuku"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-10-30",
+      "title": "DPCO Exam Tips 📚",
+      "body": "DPCO ku exam tips kethutu irundhan.",
+      "mood": "neutral",
+      "tags": [
+        "exam",
+        "dpco"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-11-01",
+      "title": "November — Full Fun Month 🤣",
+      "body": "Indha maasam fullave semma fun avalta pesuradhu ragebite pannuradhu fulla jolly ya pogudhu.",
+      "mood": "happy",
+      "tags": [
+        "november",
+        "fun"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-11-02",
+      "title": "DSA Doubt 💻",
+      "body": "DSA doubt irundha kelu na onnume purila nu sonna.",
+      "mood": "happy",
+      "tags": [
+        "dsa",
+        "doubt",
+        "college"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-11-03",
+      "title": "Name Saved Wrong 😤",
+      "body": "En peru thapa save panni iruka nu sanda poten. Oops adika sollitu irundhan.",
+      "mood": "angry",
+      "tags": [
+        "name",
+        "snapchat"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-11-06",
+      "title": "Snap Filter Roast 😭",
+      "body": "Snap filter la \"Afsal is annoyed with you\" nxt snap la \"Afsal don't like you\" nu vandhuchi. Aduku pesitu irundhan.",
+      "mood": "happy",
+      "tags": [
+        "snap",
+        "filter",
+        "funny"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-11-07",
+      "title": "Thambi Again 👺",
+      "body": "Enna thambi nu solli Verupethitu irundha.",
+      "mood": "angry",
+      "tags": [
+        "thambi",
+        "nickname",
+        "rage"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-11-08",
+      "title": "Blend Join + Nickname Aasipa 🦥",
+      "body": "Blend la join panna sonna. Panna maaten nu sollitu irundha. Aprm pesi pesi Join panna vachan.\n\nNickname Change panna — Aasipa 🦥",
+      "mood": "happy",
+      "tags": [
+        "blend",
+        "nickname",
+        "aasipa",
+        "milestone"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": true,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-11-09",
+      "title": "Serious Sorry + Chat Settings 🙂",
+      "body": "Na velaiyata solla oru vishatha serious sa edutu loosu sorry sonna.\n\nChat settings change pannita 🙂",
+      "mood": "nervous",
+      "tags": [
+        "sorry",
+        "chat settings"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-11-10",
+      "title": "Door Open Tut 🚪 + V2 Uncle",
+      "body": "Velila poi sapudura maari reel send panna aduku ava unaku venuma nu keta na avalta keta ava enta kekura naa venum nu sonna vaangi taren nu sonna.\n\nDoor open panna tut send panna aduku stone illana enna panna nu keta. Nxt \"v2 uncle kupudu nu sonna\" apadi illana \"enaku call pannu na varen nu\" sonna aduku ava \"naane paathupen\" nu sonna.",
+      "mood": "happy",
+      "tags": [
+        "reel",
+        "door",
+        "v2 uncle",
+        "cute"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-11-11",
+      "title": "1AM React + Catwomen + 11:11 🌙",
+      "body": "N8 1 mani ku react pannura keta \"catwomen nu sollura\". \"U cant escape from me\" nu reel anupuna aduku na \"idha save panni vachi irukan\" nu sonna.\n\nEnna 11:11 wish panna sonna.",
+      "mood": "happy",
+      "tags": [
+        "1am",
+        "catwomen",
+        "11:11",
+        "night"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-11-12",
+      "title": "Communication Skill + First Real Fight 🤐",
+      "body": "6th 11th \"I don't Like You\" snap ku reply panna snap send panna. Enna communication skill kathuka nu sonna. Enna elar kitta pesi socialize aaga sonna. Thirumba enna Thambi nu sonna 👺\n\n1st time sanda potom. Na seriga 🤐 nu potadhu avaluku apa dhaan purinji iruku. Overthinking panna vendam nu sollitu irundhan.\n\nAva \"nee avala blame pannitu irundha na ava pinnadi suthuren\" nu sonna.",
+      "mood": "nervous",
+      "tags": [
+        "fight",
+        "first fight",
+        "thambi",
+        "communication"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-11-13",
+      "title": "Exam Tips + First Cat 🐱",
+      "body": "Exam eppadi panna nu keta. Ava 🙂 pota na adu sad emo nu sonna. 1st time cat varanjem.",
+      "mood": "happy",
+      "tags": [
+        "exam",
+        "cat",
+        "first cat",
+        "emoji"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-11-14",
+      "title": "Capybara Reel + 11:11 Again 🌊",
+      "body": "\"If i dont txt u cuz i become capybara\" reel anupunen. Aduku wow nu pota na romba sandhosam nu ketan adhalam illa na.\n\n\"Un noti vandha udane edutu paapen\" nu sonna. Adulam nambura maari illa nu sonna na ss edutu anupunen \"ellarkum poi reply pannu\" nu sonna.\n\n11:11 wish panna sonna time miss aaiduchi nu sonna. Na \"unaku sethu wish panniten\" nu sonna. \"Enna panna nu keta nee nenachadu nadakanum\" nu panna nu sonna. Nee romba pesura nu sonna.",
+      "mood": "hopeful",
+      "tags": [
+        "capybara",
+        "11:11",
+        "notification",
+        "wish"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-11-15",
+      "title": "Drawing + Boys School 🎨",
+      "body": "Oru drawing varanjem. Na boys school la keta.",
+      "mood": "happy",
+      "tags": [
+        "drawing",
+        "school",
+        "funny"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-11-16",
+      "title": "Mens Are Scary + Thirunelveli + Bus Sickness 🚌",
+      "body": "The term \"Mens are scary\" vandhuchi. Na Anu id pathi sonna ava adukum sonna.\n\nAprm ellar kitta open aaga maaten nu sonna na enta pesu paravala na neraiya pesuven nu sollitu irundhan. Aprm that Thambi 👺. Then Mmm!! Mark illa. Romba Confusing theory sonna \"Yes means No then No means no\".\n\nNative ketan — Thirunelveli nu sonna. Avalukum Bus sickness iruku nu sonna.",
+      "mood": "happy",
+      "tags": [
+        "thirunelveli",
+        "bus sickness",
+        "native",
+        "thambi",
+        "scary men"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-11-17",
+      "title": "Salt Baking Soda + Diary Release 💀📓",
+      "body": "Loosu muttai la salt ku baking soda poten nu sonna 🤣🤣. Same sanda. Pesa theriyama love ku like nu poten naanu.\n\nReleased My 2025 Diary to her — semma shock avaluku — nenji vali pro max. Avaluku V2 location thapa potu irundhan change panna sonna 😭. Evlo nalla pillana ss edukatan nu ketu edutu iruka.\n\nThen Website sonna then nenji vali. Hilight pass — thaan ava DOB.",
+      "mood": "nervous",
+      "tags": [
+        "diary",
+        "diary release",
+        "shock",
+        "website",
+        "v2 location",
+        "milestone"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": true,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-12-02",
+      "title": "I Won't Fall For Mere Words + Anxiety Talk 💬",
+      "body": "As usual GM. Nethu 11:11 solla marandhuten enaku porupilla nu sollitu irundhan. Ava adulam onnu illanu sonna. Eppodhum pola flowers anupuna eduku anukura vendam nu sonna. Aprm periya convo pochu.\n\n\"I won't fall for mere words\" andha maari neraiya sollitu irundha. Enaku therinjadhu dhaan — she won't. She is very mature and handle her things without breaking others heart. She's very brave.\n\nAprm avalta pesumvodhu vara anxiety attack pathi sollitu irundhan. Ava pesanum na pesalam nu sonna. Na \"Aashifa is scary\" nu sonna. Exactly she is scary for me — its like namaku yarkitta pesa pudikumo avangalta pesa bayapuduvom. Yen na thapa pesi hurt panna kudhadu nu enakum olunga pesa varadhu so avlova pesa maaten adhulam sollitu irundhan.\n\nThen avlo dhaan — naal fulla pesitu mudichachu. Aprm 11:11 potu thoonga poiten.",
+      "mood": "nervous",
+      "tags": [
+        "anxiety",
+        "deep talk",
+        "11:11",
+        "brave",
+        "words"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    },
+    {
+      "date": "2025-12-03",
+      "title": "Cinderella Annabelle Day 😂",
+      "body": "Normal Day start. Anaiku Cinderella Annabelle la irundhanga yen nu therila. Oru naal mokka joke poti sirika vachi Cinderella vara vachan. Then normal la dhaan pesitu irundhom.",
+      "mood": "happy",
+      "tags": [
+        "cinderella",
+        "annabelle",
+        "fun",
+        "joke"
+      ],
+      "folder": "Aashifa",
+      "isFavorite": false,
+      "importedFrom": "Manual Diary Notes",
+      "source": "diary_text_2025"
+    }
+  ],
+  "exportedAt": "2026-05-09T00:00:00.000Z"
+}
